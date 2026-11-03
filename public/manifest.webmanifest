@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "FileFlow — Universal File Converter",
+  "short_name": "FileFlow",
+  "description": "Convert, compress, and manage files privately.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f8fa",
+  "theme_color": "#f7f8fa",
+  "icons": [
+    { "src": "/icons/fileflow-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/fileflow-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/fileflow-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
